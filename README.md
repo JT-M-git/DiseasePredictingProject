@@ -13,15 +13,15 @@ Other ML mechanisms and processes involved are:-
 4) Predicting and displaying the respective disease to the user and checking its accuracy with preloaded dataset.
 
 Tools and Softwares used:-
-SKlearn 
-Numpy
-matplotlib
-python
-pandas
-CSV files for dataset
-PyCharm IDE
-Tkinter for frontend
-Any Backend software
+1) SKlearn 
+2) Numpy
+3) matplotlib
+4) python
+5) pandas
+6) CSV files for dataset
+7) PyCharm IDE by jetbrains
+8) Tkinter for frontend
+9) Any Backend software
 
 Main Objective:-
 Data(Symptoms suffered) given as input by the user in the tkinter GUI(frontend interface) will be stored in a backend interface from where it will be fed to the ML model which upon analysing the data will predict the output and display it back in the GUI.
