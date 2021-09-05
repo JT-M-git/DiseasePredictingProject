@@ -11,6 +11,7 @@ Other ML mechanisms and processes involved are:-
    IV) Applying feature scaling to avoid large deviation and variation in data.
 3) Training the dataset using the SVM algorithm.
 4) Predicting and displaying the respective disease to the user and checking its accuracy with preloaded dataset.
+
 Tools and Softwares used:-
 SKlearn 
 Numpy
