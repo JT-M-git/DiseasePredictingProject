@@ -5,10 +5,10 @@ SVM is a very powerfull algorithm when it comes to predicting models which is we
 Other ML mechanisms and processes involved are:-
 1) Importing the necessary libraries.
 2) Data preprocessing.
-   I) Importing the dataset from the csv files.
-   II) Transforming any strings present in the dataset to integers.
-   III) Splitting the dataset into respective trainingset and testset in the ratio of 4:1.
-   IV) Applying feature scaling to avoid large deviation and variation in data.
+   1) Importing the dataset from the csv files.
+   2) Transforming any strings present in the dataset to integers.
+   3) Splitting the dataset into respective trainingset and testset in the ratio of 4:1.
+   4) Applying feature scaling to avoid large deviation and variation in data.
 3) Training the dataset using the SVM algorithm.
 4) Predicting and displaying the respective disease to the user and checking its accuracy with preloaded dataset.
 
